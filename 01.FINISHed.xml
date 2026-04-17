@@ -1,0 +1,3000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>NYA</name>
+      <longname>NYAA</longname>
+      <settype>DOR</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Hunt Rathalos</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Rathalos.png">NYA</set>
+      <related attach="transform">Rathalos, King of the Skies</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the Beginning of each players upkeep, Hunt: Rathalos deals 3 damage to that player.
+Carve 3 (When this battle is defeated, each player that had a source they control deal damage to it creates 3 treasure tokens.)</text>
+    </card>
+    <card>
+      <name>Rathalos, King of the Skies</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Rathalos%2C King of the Skies.png">NYA</set>
+      <related attach="transform">Hunt Rathalos</related>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+    </card>
+    <card>
+      <name>Hunt Rathian</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Rathian.png">NYA</set>
+      <related attach="transform">Rathian, Queen of the Land</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Rathian deals 2 damage to that player.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Rathian, Queen of the Land</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Rathian%2C Queen of the Land.png">NYA</set>
+      <related attach="transform">Hunt Rathian</related>
+      <tablerow>2</tablerow>
+      <text>Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)</text>
+    </card>
+    <card>
+      <name>Hunt Devijho</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>3BRG</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>7</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Deviljho.png">NYA</set>
+      <related attach="transform">Picklejho, Endless Hunger</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>Ward— Sacrifice a creature (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player  Sacrifice a creature.)
+At the beginning of each players upkeep, that player faces a villainous choice - Hunt: Deviljho deals 5 damage to that player or that player sacrifices a creature and puts 2 defense counters on Hunt: Deviljho.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Picklejho, Endless Hunger</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Picklejho%2C Endless Hunger.png">NYA</set>
+      <related attach="transform">Hunt Devilhjo</related>
+      <tablerow>2</tablerow>
+      <text>When a Creature Dies, if ‘twas dealt damage by Picklejho this turn, put two +1/+1 counters on Picklejho.</text>
+    </card>
+    <card>
+      <name>Hunt Rey Dau</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Rey Dau.png">NYA</set>
+      <related attach="transform">Rey Dau, Electric Spear</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Rey Dau deals 3 damage to that player, and taps the creature with the highest toughness among creatures they control, then puts a stun counter on it.
+Carve 3.</text>
+    </card>
+    <card>
+      <name>Rey Dau, Electric Spear</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UR</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Rey Dau%2C Electric Spear.png">NYA</set>
+      <related attach="transform">Hunt Rey Dau</related>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Rey Dau attacks, it deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Hunt Espinas</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>1BGU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Espinas.png">NYA</set>
+      <related attach="transform">Espinas, Forbidden Venom</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the Beginning of each players upkeep, Hunt: Espinas deals 1 damage to that player, then that players gets a poison counter. Tap the creature with the highest mana value amongst creatures that player controls without stun counters, then put a stun counter on it. .
+Cave 3</text>
+    </card>
+    <card>
+      <name>Espinas, Forbidden Venom</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Drake Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Espinas%2C Forbidden Venom.png">NYA</set>
+      <related attach="transform">Hunt Espinas</related>
+      <tablerow>2</tablerow>
+      <text>Flying, Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)</text>
+    </card>
+    <card>
+      <name>Hunt Kushala Daora</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>4WU</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>6</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Kushala Daora.png">NYA</set>
+      <related attach="transform">Kushala Daora, Shadow Upon the Tempest</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each player’s upkeep, Hunt: Kushala Daora deals 3 damage to that player, then they return a nonland permanent they control to its owner’s hand.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Kushala Daora, Shadow Upon the Tempest</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop><set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Kushala Daora%2C Shadow Upon the Tempest.png">NYA</set>
+      <related attach="transform">Kushala Daora</related>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Kushala Daora attacks, return up to 2 nonland permanents defending player controls to their owners hands.</text>
+    </card>
+    <card>
+      <name>Hunt Daimyo Hermitaur</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Daimyo Hermitaur.png">NYA</set>
+      <related attach="transform">Daimyo Hermitaur, Shelled Sovereign</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each player’s upkeep, Hunt: Daimyo Hermitaur deals 1 damage to that player.
+Carve 2</text>
+    </card>
+    <card>
+      <name>Daimyo Hermitaur, Shelled Sovereign</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Daimyo Hermitaur%2C Shelled Sovereign.png">NYA</set>
+      <related attach="transform">Hunt Daimyo Hermitaur</related>
+      <tablerow>2</tablerow>
+      <text>Hexproof</text>
+    </card>
+    <card>
+      <name>Hunt Tigrex</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Tigrex.png">NYA</set>
+      <related attach="transform">Tigrex, Absolute Power</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Tigrex deals 2 damage to that player and they discard a card.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Tigrex, Absolute Power</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dinosaur Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Tigrex%2C Absolute Power.png">NYA</set>
+      <related attach="transform">Hunt Tigrex</related>
+      <tablerow>2</tablerow>
+      <text>This creature can’t be blocked</text>
+    </card>
+    <card>
+      <name>Hunt Nargacuga</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Nargacuga.png">NYA</set>
+      <related attach="transform">Nargacuga, Pouncing Shadow</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Nargacuga deals 2 damage to that player.
+At the beginning of each players endstep, Hunt: Nargacuga deals 2 damage to that player.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Nargacuga, Pouncing Shadow</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Cat Beast Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Nargacuga%2C Pouncing Shadow.png">NYA</set>
+      <related attach="transform">Hunt Nargacuga</related>
+      <tablerow>2</tablerow>
+      <text>Haste, double strike, vigilance</text>
+    </card>
+    <card>
+      <name>Hunt Lagiacrus</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>6</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Lagiacrus.png">NYA</set>
+      <related attach="transform">Lagiacrus, Lord of the Seas</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Lagiacrus deals 1+X damage to that player, where X is the number of islands on the battlefield.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Lagiacrus, Lord of the Seas</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Leviathan Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Lagiacrus%2C Lord of the Seas.png">NYA</set>
+      <related attach="transform">Hunt Lagiacrus</related>
+      <tablerow>2</tablerow>
+      <text>Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)</text>
+    </card>
+    <card>
+      <name>Hunt Zinogre</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Zinogre.png">NYA</set>
+      <related attach="transform">Zinogre, Lord of Lightning</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Zinogre deals 2 damage to that player and taps an untapped creature with the highest mana value among creatures they control, then puts a stun counter on it.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Zinogre, Lord of Lightning</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dog Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Zinogre%2C Lord of Lightning.png">NYA</set>
+      <related attach="transform">Hunt Zinogre</related>
+      <tablerow>2</tablerow>
+      <text>When Zinogre attacks, draw a card for each tapped creature defending player controlsq
+When this Creature Becomes Blocked, tap the blocking creature and put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Hunt Brachydios</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Brachydios.png">NYA</set>
+      <related attach="transform">Brachydios, the Crushing Wyvern</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Brachydios deals 1 damage to that player,then  that player creates a 0/1 green ooze creature token named slime with Cumulative upkeep 1 and  “When this creature dies, it deals 3 damage its controller.” (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Carve 3</text>
+    </card>
+    <card>
+      <name>Brachydios, the Crushing Wyvern</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Ooze Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Brachydios%2C the Crushing Wyvern.png">NYA</set>
+      <related attach="transform">Hunt Brachydios</related>
+      <tablerow>2</tablerow>
+      <text>When Brachydios attacks, defending player creates a 0/1green ooze creature token with Cumulative upkeep {1} and “When this creature dies, its controller takes 3 damage.” (At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</text>
+    </card>
+    <card>
+      <name>Hunt Gore Magala</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>7</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Gore Magala.png">NYA</set>
+      <related attach="transform">Gore Magala, Dark Eclipse</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>Shroud
+At the beginning of each player’s upkeep, Hunt: Gore Magala deals 1 damage to that player,then if that player has less than 5 frenzy counters, they gain a frenzy counter unless that player pays 3 or U. (If a player deals 10 combat damage in a turn, remove all frenzy counters from that player and draw a card. If a player has 5 or more frenzy counters, combat damage dealt to them is doubled.) 
+Carve 3</text>
+    </card>
+    <card>
+      <name>Gore Magala, Dark Eclipse</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Nightmare Dragon  // Legendary Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+    <pt>5/7 // 10/10</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Gore Magala%2C Dark Eclipse.png">NYA</set>
+      <related attach="transform">Hunt Gore Magala</related>
+      <tablerow>2</tablerow>
+      <text>When Gore Magala transforms, for each of up to three target creatures, create a colourless Frenzied Role token attached to that creature. (Enchanted creature gets +1/+1 and is goaded. When enchanted creature deals combat damage to a player, that player gets a frenzy counter.)
+{T}: Target player gets a frenzy counter. If that player has 5 or more frenzy counters, flip Gore Magala.
+--- 
+Flying, Indestructible
+If a player has 5 or more frenzy counters, damage dealt to them is doubled.</text>
+    </card>
+    <card>
+      <name>Hunt Seregios</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Seregios.png">NYA</set>
+      <related attach="transform">Seregios, Slicing Scales</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Seregios deals 3 damage to that player, and puts 3 -1/-1 counters divided randomly on creatures they control.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Seregios, Slicing Scales</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Seregios%2C Slicing Scales.png">NYA</set>
+      <related attach="transform">Hunt Seregios</related>
+      <tablerow>2</tablerow>
+      <text>Flying, Double strike, Wither (This deals damage to creatures in the form of -1/-1 counters.)</text>
+    </card>
+    <card>
+      <name>Hunt Glavenus</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>4RG</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>7</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Glavenous.png">NYA</set>
+      <related attach="transform">Glavenus, Hellblade</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each player’s end step, if that player did not attack Hunt: Glavenus this turn, Hunt: Glavenus deals 6 damage to that player.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Glavenus, Hellblade</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dinosaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Glavenous%2C Hellblade.png">NYA</set>
+      <related attach="transform">Hunt Glavenus</related>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
+      <name>Hunt Mizutsune</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Mizutsune.png">NYA</set>
+      <related attach="transform">Mizutsune, Bewitching Dancer</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each player’s upkeep that player flips a coin, if they lose the flip that player takes 1 damage.
+At the beginning of each players upkeep, they return a non-land permanent they control to its owner’s hand.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Mizutsune, Bewitching Dancer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Fox Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Mizutsune%2C Bewitching Dancer.png">NYA</set>
+      <related attach="transform">Hunt Mizutsune</related>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Mizutsune transforms, draw a card.</text>
+    </card>
+    <card>
+      <name>Hunt Astalos</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>6</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Astalos.png">NYA</set>
+      <related attach="transform">Astalos, Thunderous Rage</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each player’s upkeep, Hunt: Astalos deals X damage to that player, where X is the number of defense counters on Hunt: Astalos.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Astalos, Thunderous Rage</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Insect  Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Astalos%2C Thunderous Rage.png">NYA</set>
+      <related attach="transform">Hunt Astalos</related>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+    </card>
+    <card>
+      <name>Hunt Gammoth</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GGG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Snow Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>8</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Gammoth.png">NYA</set>
+      <related attach="transform">Gammoth, Elderfrost</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each player’s upkeep, Hunt: Gammoth deals 3 damage to that player.
+When a creature becomes tapped, put a stun counter on it.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Gammoth, Elderfrost</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Snow Creature - Elephant </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Gammoth%2C Elderfrost.png">NYA</set>
+      <related attach="transform">Hunt Gammoth</related>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
+      <name>Hunt Valstrax</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RRWW</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>7</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Valstrax.png">NYA</set>
+      <related attach="transform">Valstrax, Star of Despair</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+At the beginning of each players upkeep, put a charge counter on Hunt: Valstrax. then, Hunt: Valstrax deals X damage to that player, where X is the amount of charge counters on Hunt: Valstrax
+Carve 3</text>
+    </card>
+    <card>
+      <name>Valstrax, Star of Despair</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Valstrax%2C Star of Despair.png">NYA</set>
+      <related attach="transform">Hunt Valstrax</related>
+      <tablerow>2</tablerow>
+      <text>Flying, Vigilance
+When Valstrax attacks, put a charge counter on it.
+Remove 10 charge counters: Destroy all other creatures.</text>
+    </card>
+    <card>
+      <name>Hunt Vaal Hazak</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BBB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>6</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Vaal Hazak.png">NYA</set>
+      <related attach="transform">Vaal Hazak, Rotten Veil</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Vaal Hazak deals 4 damage to that player, and puts a random creature from that players graveyard on the battlefield under another player’s control chosen at random.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Vaal Hazak, Rotten Veil</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Elder Dragon Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>5/7</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Vaal Hazak%2C Rotten Veil.png">NYA</set>
+      <related attach="transform">Hunt Vaal Hazak</related>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+2UB: Exile target creature from a graveyard, create a token copy of it, except its a 4/4 black zombie.</text>
+    </card>
+    <card>
+      <name>Hunt Velkhana</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UUU</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Snow Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Velkhana.png">NYA</set>
+      <related attach="transform">Velkhana, Lord of Ice</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>Hexproof
+at the beginning of each players upkeep, Hunt: Velkhana deals 4 damage to that player, and puts a stun counter on the creature with the highest toughness that player controls.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Velkhana, Lord of Ice</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Snow Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Velkhana%2C Lord of Ice.png">NYA</set>
+      <related attach="transform">Hunt Velkhana</related>
+      <tablerow>2</tablerow>
+      <text>Flying
+2{S}: Tap Target Creature and put an ice counter on it.
+Creatures with ice counters on them don’t untap during their controllers untap steps.</text>
+    </card>
+    <card>
+      <name>Hunt Magnamalo</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Magnamalo.png">NYA</set>
+      <related attach="transform">Magnamalo, Ultimate Malice</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Magnamalo deals 3 damage to that player, and puts a finality counter on a random creature that player controls that doesn’t have a finality counter
+Carve 3</text>
+    </card>
+    <card>
+      <name>Magnamalo, Ultimate Malice</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Magnamalo%2C Ultimate Malice.png">NYA</set>
+      <related attach="transform">Hunt Magnamalo</related>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+    </card>
+    <card>
+      <name>Hunt Malzeno</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WWBB</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Malzeno.png">NYA</set>
+      <related attach="transform">Malzeno, Scarlet Feast</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+At the beginning of each players upkeep, put a defense counter on Hunt: Malzeno and it deals 4 damage to that player.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Malzeno, Scarlet Feast</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Elder Vampire Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>7/5</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Malzeno%2C Scarlet Feast.png">NYA</set>
+      <related attach="transform">Hunt Malzeno</related>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Malzeno enters the battlefield or transforms, Melzeno deals 4 damage to any target.
+T2: Exile Malzeno and then return it to the battlefield tapped and transformed under your control.</text>
+    </card>
+    <card>
+      <name>Hunt Guardian Arkveld</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Artifact Battle - Hunt </type>
+        <maintype>Artifact</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Guardian Arkveld.png">NYA</set>
+      <related attach="transform">Guardian Arkveld, Chained Construct</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>Affinity for artifacts (This spell costs 1 less to cast for each artifact you control.)
+At the beginning of each players upkeep, Hunt: Guardian Arkveld deals 3 damage to that player. At the beginning of each player’s endstep, if that player didn’t attack Hunt: Guardian Arkveld this turn, put a defense counter on it.
+Carve 3.</text>
+    </card>
+    <card>
+      <name>Guardian Arkveld, Chained Construct</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Artifact Creature - Construct Beast Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Guardian Arkveld%2C Chained Construct.png">NYA</set>
+      <related attach="transform">Hunt Guardian Arkveld</related>
+      <tablerow>2</tablerow>
+      <text>Whenever a battle enters the battlefield under your control you may pay {2}. If you do, create a token that’s a copy of it, except its not legendary and it’s an artifact.</text>
+    </card>
+    <card>
+      <name>Hunt Bazelgeuse</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>4RRG</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Bazelgeuse.png">NYA</set>
+      <related attach="transform">Bazelgeuse, Party Crasher</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>Flash
+If Hunt: Bazelgeuse was cast on another players turn, it deals 4 damage to Each opponent.
+At the beginning of each players upkeep, deal 3 damage to each player.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Bazelgeuse, Party Crasher</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dragon Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Bazelgeuse%2C Party Crasher.png">NYA</set>
+      <related attach="transform">Hunt Bazelgeuse</related>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Bazelgeuse attacks, it deals 4 damage divided among target creatures.</text>
+    </card>
+    <card>
+      <name>Hunt Alpha Doshaguma</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Alpha Doshaguma.png">NYA</set>
+      <related attach="transform">Alpha Doshaguma, Pack Leader</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>Cleave 1GW (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+At the beginning of each players upkeep [Hunt: Doshaguma deals 1 damage to that player, then] that player creates a 2/2 white beast creature token named Doshaguma with banding and “This creature must attack if able.” (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)
+Carve 3</text>
+    </card>
+    <card>
+      <name>Alpha Doshaguma, Pack Leader</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Beast Bear </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Alpha Doshaguma%2C Pack Leader.png">NYA</set>
+      <related attach="transform">Hunt Alpha Doshaguma</related>
+      <tablerow>2</tablerow>
+      <text>When this creature transforms, put X +1/+1 counters on it where X is the number of creatures on the battlefield named “Doshaguma”.</text>
+    </card>
+    <card>
+      <name>Hunt Bloodbath Diablos</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RRRR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>8</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt BLoodbath Diablos.png">NYA</set>
+      <related attach="transform">Bloodbath Diablos, Tempered Anger</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each player’s upkeep, Bloodbath Diablos deals 10-X damage to that player, where X is the number of defense counters on Bloodbath Diablos. If X is equal to or greater than 10 , it deals 1 damage instead
+Carve 3</text>
+    </card>
+    <card>
+      <name>Bloodbath Diablos, Tempered Anger</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dinosaur  Dragon Juggernaut </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Bloodbath Diablos%2C Tempered Anger.png">NYA</set>
+      <related attach="transform">Hunt Bloodbath Diablos</related>
+      <tablerow>2</tablerow>
+      <text>Trample, Haste</text>
+    </card>
+    <card>
+      <name>Felyne Moxie</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Felyne Moxie.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Split Second (As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)
+You Can’t lose the game this turn and your opponents can’t win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.</text>
+    </card>
+    <card>
+      <name>Compact Anti-Wyvern Shot</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Compact Anti-Wyvern Shot.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Compact Anti-Wyvern Shot deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Silkbind</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Silkbind.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Counter Target Spell. At the beginning of your next main phase, add an amount of {C} to your mana pool equal to that spell’s converted mana cost.</text>
+    </card>
+    <card>
+      <name>Superman Dive</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Superman Dive.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Until your next turn ,your life total can’t change and you have protection form everything. All permanents you control phase out.
+Exile Superman dive.</text>
+    </card>
+    <card>
+      <name>Invasion of Lao-Shan Lung</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>6RG</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Battle - Seige </type>
+        <maintype>Battle</maintype>
+      <loyalty>10</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Invasion of Lao-Shan Lung.png">NYA</set>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Invasion of Lao-Shan Lung deals 15 damage divided as they choose among creatures that player controls. Excess damage is dealt to that player instead.
+Carve 5</text>
+    </card>
+    <card>
+      <name>Lao-Shan Lung</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>13/13</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Lao-Shan Lung.png">NYA</set>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
+      <name>Dragonator</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>WUB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Dragonator.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>This spell cant be countered.
+Destroy target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Seikret Pouch</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Seikret Pouch.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Quest Board</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Quest Board.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Cleave 1RW (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Search your library for a battle card [reveal it] and put it in your hand and shuffle your library.</text>
+    </card>
+    <card>
+      <name>Sapphire Of The Emperor</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Sapphire Of The Emperor.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Choose one or more—
+• Exile all artifacts.
+• Exile all Creatures.
+• Exile all Enchantments.
+• Exile all Graveyards.</text>
+    </card>
+    <card>
+      <name>SOS Flare</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Interrupt</type>
+        <maintype>Interrupt</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/SOS Flare.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>This spell can only be cast  during combat before the declare attackers step. Gain control of each creature target opponent controls until end of combat. Untap those creatures. Until end of turn, those creatures attack each combat if able and creatures you control cannot attack that player.</text>
+    </card>
+    <card>
+      <name>The Argosy</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/The Argosy.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Search your library for plains, Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Plains.png">NYA</set>
+      <tablerow>0</tablerow>
+      
+    </card>
+    <card>
+      <name>Island</name>
+      
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Island.png">NYA</set>
+      <tablerow>0</tablerow>
+      
+    </card>
+    <card>
+      <name>Swamp</name>
+      
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Swamp.png">NYA</set>
+      <tablerow>0</tablerow>
+      
+    </card>
+    <card>
+      <name>Mountain</name>
+      
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Mountain.png">NYA</set>
+      <tablerow>0</tablerow>
+      
+    </card>
+    <card>
+      <name>Forest</name>
+      
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Forest.png">NYA</set>
+      <tablerow>0</tablerow>
+      
+    </card>
+    <card>
+      <name>Tundra</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Tundra.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W} or {U}</text>
+    </card>
+    <card>
+      <name>Scrubland</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Scrubland.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W} or {B}</text>
+    </card>
+    <card>
+      <name>Plateau</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Plateau.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R} or {W}</text>
+    </card>
+    <card>
+      <name>Savannah</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Savannah.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G} or {W}</text>
+    </card>
+    <card>
+      <name>Underground Sea</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Sawmp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Underground Sea.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U} or {B}</text>
+    </card>
+    <card>
+      <name>Volcanic Island</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Volcanic Island.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U} or {R}</text>
+    </card>
+    <card>
+      <name>Tropical Island</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Tropical Island.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G} or {U}</text>
+    </card>
+    <card>
+      <name>BadLands</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Badlands.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B} or {R}</text>
+    </card>
+    <card>
+      <name>Bayou</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Bayou.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B} or {G}</text>
+    </card>
+    <card>
+      <name>Taiga</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Taiga.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R} or {G}</text>
+    </card>
+    <card>
+      <name>The World Tree</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/The World Tree.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>The World Tree enters the battlefield tapped.
+{T}: Add {G}
+As long as you control six or more lands, lands you control have “{T}: Add one mana of any colour.”
+WWUUBBRRGG, {T}, Sacrifice The World Tree: Search your library for any number of God cards, put them onto the battlefield, then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Command Tower</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Command Tower.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add one mana of any colour in your commanders colour identity</text>
+    </card>
+    <card>
+      <name>Reliquary Tower</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Reliquary Tower.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>You have no maximum hand size.
+{T}: Add {1} to your mana pool.</text>
+    </card>
+    <card>
+      <name>Snow-Covered Plains</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Snow Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Snow-Covered Plains.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W}</text>
+    </card>
+    <card>
+      <name>Snow-Covered Island</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Snow Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Snow-Covered Island.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U}</text>
+    </card>
+    <card>
+      <name>Snow-Covered Swamp</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Snow Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Snow-Covered Swamp.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B}</text>
+    </card>
+    <card>
+      <name>Snow-Covered Mountain</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Snow Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Snow-Covered Mountain.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R}</text>
+    </card>
+    <card>
+      <name>Snow-Covered Forest</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Snow Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Snow-Covered Forest.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G}</text>
+    </card>
+    <card>
+      <name>Longword</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Longsword.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>{4}: The next time a source would deal damage to equipped creature this turn, prevent that damage. If you do, equipped creature deals that much damage to the sources controller. Then if longsword has less than 3 charge counter on it, put a charge counter on Longsword.
+{5}, Remove X charge counter from longsword: Equipped creatures gains +2*X/+0 until end of turn
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Sword And Shield</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Sword And Shield.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+0
+Activated abilities of equipped creature cost {2} less
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Dual Blades</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Dual Blades.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+0, and has double strike, haste
+{3}: Equipped creature gets +3/+0 until end of turn.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Hunting Horn</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunting Horn.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>When equipped creature deals combat damage, proliferate (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Hammer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hammer.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +4/+0. 
+When equipped creature attacks tap target creature defending player controls and put a stun counter on it
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Greatsword</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Greatsword.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +7/+0, and has trample.
+Equip {6}</text>
+    </card>
+    <card>
+      <name>Switchaxe</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Switchaxe.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gains +5/+0, and has menace.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Chargeblade</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Chargeblade.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+0.
+When equipped creature attacks, it gets +X/+0 where X is the amount of charge counters on Chargeblade.
+{T}, {X}: Put X charge counters on Chargeblade. At the beginning of each players endstep, remove all charge counters on Chargeblade.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Lance</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Lance.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+Equipped creature gets +1/+0, and has indestructible.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Gunlance</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Gunlance.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Hexproof
+Equipped creature gets +3/+0, and has hexproof.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Insect Glaive</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Insect Glaive.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Kinsect select (When this Equipment enters, create a 1/1 Insect token that’s all colours and has flying, then attach this to it)
+Equipped creature gets +3/+0, and has Flying.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Bow</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Bow.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+0, and has Reach.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Light Bowgun</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Light Bowgun.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Equipped Creature gets +2/+0, and has reach, and vigilance.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Heavy Bowgun</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Heavy Bowgun.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+0, and has reach, and first strike.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Guild Card</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Guild Card.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>{T}: Add on mana of any colour in your commander’s colour identity.</text>
+    </card>
+    <card>
+      <name>Coral Highlands</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Coral Highlands.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Coral Highlands enters the battlefield tapped.
+{T}: Add WUBRG.</text>
+    </card>
+    <card>
+      <name>Scoutflies</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Scoutflies.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Lands you control have “{T}: Add one mana of any colour.”
+{T}: Add one mana of any colour.</text>
+    </card>
+    <card>
+      <name>Item Box</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Item Box.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>You have no maximum hand size.
+{T}: Add {C}</text>
+    </card>
+    <card>
+      <name>Sol RIng</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Sol Ring.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>{T}: Add CC</text>
+    </card>
+    <card>
+      <name>Rocksteady Mantle</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Rocksteady Mantle.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>If a source would deal non combat damage to you, it instead deals half that damage rounded up.</text>
+    </card>
+    <card>
+      <name>Pick-A-Meal Voucher</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Pick-A-Meal Voucher.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, create two food tokens.</text>
+    </card>
+    <card>
+      <name>Paintball</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Paintball.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Enchant creature or battle
+Flash
+When Paintball enters the battlefield, put 3 defense counters on enchanted permanent .
+Enchanted permanent is a Hunt Battle with “At the beginning of each player’s upkeep, deal 3 damage to that player. Carve 1.” and loses all other card types and abilities. If enchanted Permanent would transform, put it in its controller’s graveyard instead.</text>
+    </card>
+    <card>
+      <name>Schrade&apos;s Demise</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BBRR</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Schrade's Demise.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Felyne Insurance</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Felyne Insurance.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Flash
+Totem armor (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
+    </card>
+    <card>
+      <name>Expedition</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Expedition.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>You may play an additional land on each of your turns.</text>
+    </card>
+    <card>
+      <name>Honey</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Honey.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>If an effect would create one or more tokens under your control, it creates twice as many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.</text>
+    </card>
+    <card>
+      <name>Gemma&apos;s Mastery</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Gemmas Mastery.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Artifact spells you cast cost {2} less to cast.</text>
+    </card>
+    <card>
+      <name>Hunt-a-thon</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>6RR</manacost>
+        <cmc>8</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt-A-Thon.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>You may cast Hunt spells without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Palico</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>3WUBRG</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Creature - Cat Ally </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Palico.png">NYA</set>
+      <tablerow>2</tablerow>
+      <text>The Hunter’s Companion - Your deck has up to 1 creature card. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+At the beginning of your end step, if you control a commander and it is tapped, gain 2 health. If it is untapped, put a +1/+1 counter on up to two target creatures.
+If you would lose the game for the first time, instead your life total becomes 5 and you lose all poison counters. Until end of turn, you have hexproof, you can’t lose the game and your opponents can’t win the game, and all damage that would reduce your life total below 1 is prevented.</text>
+    </card>
+    <card>
+      <name>Hunter</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunter.png">NYA</set>
+      <tablerow>2</tablerow>
+      <text>When a battle is defeated, draw a card.
+{2}, Sacrifice a creature: Put X +1/+1 counters on this creature, where X is the sacrificed creature’s power. </text>
+    </card>
+    <card>
+      <name>Hunt Alatreon</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>4WUBRG</manacost>
+        <cmc>9</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Alatreon.png">NYA</set>
+      <related attach="transform">Alatreon, The Blazing Black Dragon</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>Indestructible. At the beginning of each players upkeep that player pays mana equal to that players devotion to white, otherwise destroy each land they control. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
+-mills cards equal to that players devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
+-loses life equal to that players devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+-sacrifices non creatures equal to that players devotion to red . (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)
+-sacrifices creatures equal the that players devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+Carve 3 , This card can be your commander.</text>
+    </card>
+    <card>
+      <name>Alatreon, The Blazing Black Dragon</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Alatreon%2C The Blazing Black Dragon.png">NYA</set>
+      <related attach="transform">Hunt Alatreon</related>
+      <tablerow>2</tablerow>
+      <text>If you would gain life, gain that much life plus your devotion to white instead. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
+When you go to draw a card, draw cards equal to your devotion to blue instead (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
+Whenever you lose life, each opponent loses life equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+When you take damage, deal damage to any target equal to your devotion to red (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)
+Alatreon has +X/+X where X is your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)</text>
+    </card>
+    <card>
+      <name>Slay (NYA)</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>M</colors>
+        <manacost>UB // 1GUR</manacost>
+        <cmc>2</cmc>
+        <type>Instant // Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Slay.png">NYA</set>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>3</tablerow>
+      <text>Choose one:
+• Remove all defense counters from target battle.
+• Destroy target creature.
+• Counter target spell.
+--- 
+Choose one:
+• Gain control of target creature.
+• Copy target spell. You may choose new targets for the copied spell.</text>
+    </card>
+    <card>
+      <name>Arch-Tempered</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RRR</manacost>
+        <cmc>8</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Arch-Tempered.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+If a source you control would deal damage to a permanent or player, it deals triple that damage instead.</text>
+    </card>
+    <card>
+      <name>Hunt Fatalis</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BBBB</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>10</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Fatalis.png">NYA</set>
+      <related attach="transform">Fatalis, The Dark Demise</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+this spell cant be countered
+At the Beginning of each players upkeep that player makes “Omen of the Dark Demise”, a Legendary Enchantment token that has “at the beginning of enchanted player’s Upkeep, if ‘Hunt: Fatalis’ is on the battlefield, that player loses the game.”
+Carve 3</text>
+    </card>
+    <card>
+      <name>Fatalis, The Dark Demise</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>10/10</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Fatalis%2C The Dark Demise.png">NYA</set>
+      <related attach="transform">Hunt Fatalis</related>
+      <tablerow>2</tablerow>
+      <text>
+Deathtouch, Trample, Flying, Hexproof, Protection from Deathtouch.</text>
+    </card>
+    <card>
+      <name>Hunt Dalamadur</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>10</manacost>
+        <cmc>10</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>10</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Dalamadur.png">NYA</set>
+      <related attach="transform">Dalamadur, World Serpent</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>this spell cant be countered
+Ward 4 (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4.)
+on each players upkeep, that player sacrifices four non-battle permanents they control. If they can’t, that player loses the game.
+When this battle is defeated, each player that had a source they control deal damage to it creates 5 treasure token.</text>
+    </card>
+    <card>
+      <name>Dalamadur, World Serpent</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Serpent Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>8/12</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Dalamadur, World Serpent.png">NYA</set>
+      <related attach="transform">Hunt Dalamadur</related>
+      <tablerow>2</tablerow>
+      <text>Trample, Ward {4} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}.)
+Whenever Dalamadur deals combat damage to a player, create four 3/3 red serpent creature tokens, named Dalamadurs coil</text>
+    </card>
+    <card>
+      <name>Smithy</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Smithing.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Multikicker 1RW (You may pay an additional 1RW any number of times as you cast this spell.)
+Search your library for an equipment card  then Search your library for an Equipment card for every time Smithy was kicked and put those cards in your hand and then shuffle.</text>
+    </card>
+    <card>
+      <name>Ahtal-Neset</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>4BRG</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Ahtal-Neset.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Indestructible, reach, trample
+When Ahtal-Neset attacks, put an egg counter on another creature without an egg counter on it. When a creature with an egg counter dies, draw a card and put an egg counter on another creature without an egg counter.
+Escape 5BRG, exile 2 other cards in your graveyard. (You may cast this card from your graveyard for its escape cost.)
+Crew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Hunt Ahtal-Ka</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Ahtal-Ka.png">NYA</set>
+      <related attach="transform">Ahtal-Ka, Palace Mantis</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep exile a random artifact that player controls until Hunt: Ahtal-ka Transforms. If that player has no artifacts, Ahtal-ka deals 2 damage to that player instead.
+Carve 3</text>
+    </card>
+    <card>
+      <name>Ahtal-Ka, Palace Mantis</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Pilot Insect </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Ahtala-Ka Palace Mantis.png">NYA</set>
+      <related attach="transform">Hunt Ahtal-Ka</related>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Ahtal-Ka transforms, put target artifact card from a graveyard onto the battlefield under your control.
+This creature crews Vehicles as if its power were 2 greater. </text>
+    </card>
+    <card>
+      <name>Hunt Zorah Magdaros</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>20</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Zorah Magdaros.png">NYA</set>
+      <related attach="transform">Zorah Magdaros, Scorching Mountain Dragon</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>permanents comes in to play tapped
+carve 5</text>
+    </card>
+    <card>
+      <name>Zorah Magdaros, Scorching Mountain Dragon</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Zorah Magdaros%2C Scorching Mountain Dragon.png">NYA</set>
+      <related attach="transform">Hunt Zorah Magdaros</related>
+      <tablerow>0</tablerow>
+      <text>{T}: Add RR
+2RR: Until end of turn, Zorah Magdaros becomes a 2/8 red dragon creature with indestructible.</text>
+    </card>
+    <card>
+      <name>Felyne Weakener</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Felyne Weakener.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>You may cast battle spells for {2} less, if you do it has enters with 1 less defense counter.</text>
+    </card>
+    <card>
+      <name>Alma's Curiosity</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Alma's Curiosity.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>When Alma’s Curiosity enters the battlefield, draw a card for each battle you control
+When a Battle you control enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Divine Blessing</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Divine Blessing.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Enchant Creature
+If enchanted creature would be dealt damage, flip a coin, if you win the flip prevent that damage.</text>
+    </card>
+    <card>
+      <name>Lucky Voucher</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Lucky Voucher.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent draws a card, that player may pay {2}. If the player doesn’t, you create a colourless Treasure artifact token with “{T}: Add one mana of any colour.”</text>
+    </card>
+    <card>
+      <name>Dung Pod</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Dung Pod.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Overload {U} (You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)
+Remove target creature from combat.</text>
+    </card>
+    <card>
+      <name>Citadel</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BBB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Citadel.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>You may look at the top your library any time.
+You may play the top card of your library. If you cast a spell this way, pay life equal to its converted mana cost.
+{T}: Sacrifice ten nonland permanents: Each opponent loses 10 life.</text>
+    </card>
+    <card>
+      <name>Farcaster</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Farcaster.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Exile target creature you control, then return it to the battlefield under its owner’s control.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Mega Barrel Bomb</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Mega Barrel Bomb.png">NYA</set>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. You lose 2 life.</text>
+    </card>
+    <card>
+      <name>Hunt Jin Dahaad</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Snow Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>7</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Jin Dahaad.png">NYA</set>
+      <related attach="transform">Jin Dahaad, Iceshard Emperor</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Jin Dahaad deals 3 damage to that player and then puts a stun counter on each nonland permanent that player controls.
+carve 5</text>
+    </card>
+    <card>
+      <name>Jin Dahaad, Iceshard Emperor</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Snow Creature - Laviathan </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Jin Dahaad%2C Iceshard.png">NYA</set>
+      <related attach="transform">Hunt Jin Dahaad</related>
+      <tablerow>2</tablerow>
+      <text>{Q}, Discard 2 or pay {S}: Draw a card </text>
+    </card>
+    <card>
+      <name>Guard Up</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Guard Up.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature may block any number of creatures.</text>
+    </card>
+    <card>
+      <name>Wide Range</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Wide Range.png">NYA</set>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+If a +1/+1 counter would be put on enchanted creature, put a +1/+1 creature on all creatures you control instead.</text>
+    </card>
+    <card>
+      <name>Hunt Poborubarumu</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>3GWUU</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>6</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Poborubarumu.png">NYA</set>
+      <related attach="transform">Poborubarumu</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the Beginning of each players precombat main phase, that player adds one mana of any colour to your mana pool then draws a card. Then Hunt: Poborubarumu deals 6 damage to that player.
+carve 4</text>
+    </card>
+    <card>
+      <name>Poborubarumu</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Whale </type>
+        <maintype>Creature</maintype>
+        <pt>7/5</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Poborubarumu.png">NYA</set>
+      <related attach="transform">Hunt Poborubarumu</related>
+      <tablerow>2</tablerow>
+      <text>When Poborubarumu attacks, choose one that hasn’t already been chosen:
+• All players gain 5 Life.
+• Each creature gets +X/+X, where X is that creatures power until end of turn.
+• Remove all creatures from combat.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Hunt Velocidrome</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Velocidrome.png">NYA</set>
+      <related attach="transform">Velocidrome</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, that player creates one 1/1 green Dinosaur creature token named Velociprey.
+Carve 2</text>
+    </card>
+    <card>
+      <name>Hunt Great Jagras</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Hunt Great Jagras.png">NYA</set>
+      <related attach="transform">The Greatest Jagras</related>
+      <landscapeOrientation>1</landscapeOrientation>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each players upkeep, Hunt: Great Jagras deals 1 damage to that player unless that player pays 2.</text>
+    </card>
+    <card>
+      <name>Velocidrome</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Velcidrome.png">NYA</set>
+      <related attach="transform">Hunt Velocidrome</related>
+      <tablerow>2</tablerow>
+      <text>First strike</text>
+    </card>
+    <card>
+      <name>The Greatest Jagras</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Lizard Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/The Greatest Jagras.png">NYA</set>
+      <related attach="transform">Hunt Great Jagras</related>
+      <tablerow>2</tablerow>
+      <text>{T}: Target creature</text>
+    </card>
+    <card>
+      <name>Alpine Meadow</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Snow Land - Mountain Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Alpine Meadow.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {W})
+Alpine Meadow enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Arctic Treeline</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Snow Land - Plains Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Arcitc Treeline.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {G})
+Arcitc Treeline enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Glacial Floodplain</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Snow Land - Plains Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Glacial Floodplain.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {U})
+Glacial Floodplain enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Highland Forest</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Snow Land - Mountain Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/HighLand Forest.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {G})
+Highland Forest enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Ice Tunnel</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Snow Land - Island Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Ice Tunnel.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {B})
+Ice Tunnel enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Rimewood Falls</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Snow Land - Forest Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Rimewood Falls.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {U})
+Rimewood Falls enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Snowfield Sinkhole</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Snow Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Snowfield Sinkhole.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {B})
+Snowfield Sinkhole enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Sulfurous Mire</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Snow Land - Swamp Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Sulfurous Mire.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {R})
+Sulfurous Mire enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Volitile Fjord</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Snow Land - Island Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Volitile Fjord.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {R})
+Volitile Fjord enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Woodland Chasm</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Snow Land - Swamp Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Woodland Chasm.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {G})
+Woodland Chasm enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Desert</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Desert.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {1} to your mana pool.
+{T}: Desert deals 1 damage to target attacking creature, Activate this ability only during the end of combat step.</text>
+    </card>
+    <card>
+      <name>Rouges Passage</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Rouges Passage.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {1} to your mana pool.
+{4}, {T}: Target creature is unblockable this turn.</text>
+    </card>
+    <card>
+      <name>Forbidden Orchard</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Forbidden Orchard.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add one mana of any colour to your mana pool.
+When you tap Forbidden Orchard for mana, target opponent creates a 1/1 colourless Spirit creature token.</text>
+    </card>
+    <card>
+      <name>Exotic Orchard</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Exotic Orchard.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add to your mana pool one mana of any colour that a land an opponent controls could produce.</text>
+    </card>
+    <card>
+      <name>Survivors Encampment</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Survivors Encampment.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C} to your mana pool.
+{T}, Tap an untapped creature you control: Add one mana of any colour to your mana pool.</text>
+    </card>
+    <card>
+      <name>Mirage Mesa</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Mirage Mesa.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>Mirage Mesa enters the battlefield tapped. As it enters, choose a colour.
+{T}: Add one mana of the chosen colour.</text>
+    </card>
+    <card>
+      <name>Arid Archway</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Arid Archway.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>Arid Archway enters the battlefield tapped.
+When Arid Archway enters the battlefield, return a land you control to its owner’s hand. If another Desert was returned this way, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add CC.</text>
+    </card>
+    <card>
+      <name>Sunscorched Desert</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Sunscorched Desert.png">NYA</set>
+      <tablerow>0</tablerow>
+      <text>When Sunscorched Desert enters the battlefield, it deals 1 damage to target player.
+{T}: Add {C} to your mana pool.</text>
+    </card>
+    <card>
+      <name>Nightmare (NYA)</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BBBB</manacost>
+        <cmc>9</cmc>
+        <type>Legendary Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Nightmare.png">NYA</set>
+      <tablerow>2</tablerow>
+      <text>Menace, Lifelink
+{T}: Choose a creature, put chosen creature in its owners graveyard.
+when a creatures is put into a graveyard from play, put X +1/+1 counters on Nightmare, where X is that creatures Power</text>
+    </card>
+    <card>
+      <name>Chocola &amp; Vanilla</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Chocola %26 Vanilla.png">NYA</set>
+      <tablerow>2</tablerow>
+      <text>When Chocola &amp; Vanilla enter the battlefield, make a food token.
+Other cats you control get +1/+1.
+Human spells you control have Offspring {3} (You may pay an additional {3} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+{T}, Sacrifice a food token: Draw 2 cards.</text>
+    </card>
+    <card>
+      <name>Kazuya Mishima</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>2RWB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Kazuya Mishima.png">NYA</set>
+      <related attach="transform">Devil Kazuya</related>
+      <tablerow>2</tablerow>
+      <text>{T}: Kazuya Mishima fights another target creature. If that creature dies this turn and you controlled that creature, transform Kazuya. Otherwise return that creature to the battlefield under your control.
+“I... Control everything!”</text>
+    </card>
+    <card>
+      <name>Devil Kazuya</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Demon Human </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Devil Kazuya.png">NYA</set>
+      <related attach="transform">Kazuya Mishima</related>
+      <tablerow>2</tablerow>
+      <text>Flying, Deathtouch
+{T}: Devil Kazuya fights another target creature.
+When Devil Kazuya dies, return him to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Rider and Ratha</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Human Dragon Ally </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Rider and Ratha.png">NYA</set>
+      <related attach="transform">Rider</related>
+      <tablerow>2</tablerow>
+      <text>Flying, Hexproof, Vigilance
+When a battle enters the battlefield draw a card.
+When Rider &amp; Ratha attacks, destroy target creature.
+Creatures you control get +4/+4.</text>
+    </card>
+    <card>
+      <name>Rider</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Rider.png">NYA</set>
+      <related attach="transform">Rider and Ratha</related>
+      <tablerow>2</tablerow>
+      <text>Partner with Ratha.  (When this permanent enters, target player may put Ratha. into their hand from their library, then shuffle.)
+When a battle enters the battlefield, draw a card.
+Meld with Ratha.</text>
+    </card>
+    <card>
+      <name>Ratha</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Ratha.png">NYA</set>
+      <tablerow>2</tablerow>
+      <text>Partner with Rider. (When this permanent enters, target player may put Rider. into their hand from their library, then shuffle.)
+Commander Ninjutsu 1WUBRG.  (1WUBRG, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand or the command zone tapped and attacking.)
+When Ratha attacks, it deals 4 damage to any target.
+Meld with Rider</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Slime</name>
+      
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Ooze </type>
+        <maintype>Token Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <set picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Slime.png"/>
+      <tablerow>2</tablerow>
+      <text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When this creature dies, it deals 3 damage its controller.</text>
+      
+    </card>
+    <card>
+      <name>frenzied</name>
+      
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment - Aura </type>
+        <maintype>Token Enchantment</maintype>
+      </prop>
+      <set picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/frenzied.png"/>
+      <tablerow>1</tablerow>
+      <text>Enchant Creature
+Enchanted creature gets +1/+1 and is goaded. When enchanted creature deals combat damage to a player, that player gets a frenzy counter.</text>
+      
+    </card>
+    <card>
+      <name>Doshaguma</name>
+      
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Beast  </type>
+        <maintype>Token Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <set picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Doshaguma.png"/>
+      <tablerow>2</tablerow>
+      <text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)
+This creature must attack if able</text>
+      
+    </card>
+    <card>
+      <name>Castle Schrade</name>
+      
+      <prop>
+        <colors></colors>
+        <type>Legendary Token Land</type>
+        <maintype>Token Land</maintype>
+      </prop>
+      <set picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Castle Schrade.png"/>
+      <tablerow>0</tablerow>
+      <text>{T}: Add one mana of any colour.</text>
+      
+    </card>
+    <card>
+      <name>Kinsect</name>
+      
+      <prop>
+        <colors>WUBRG</colors>
+        <type>Token Creature - Insect </type>
+        <maintype>Token Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <set picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Kinsect.png"/>
+      <tablerow>2</tablerow>
+      <text>Flying.
+This Creature is all colours.</text>
+      
+    </card>
+    <card>
+      <name>Food</name>
+      
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Food </type>
+        <maintype>Token Artifact</maintype>
+      </prop>
+      <set picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Food.png"/>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 2 life.</text>
+      
+    </card>
+    <card>
+      <name>Treasure</name>
+      
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Token Artifact</maintype>
+      </prop>
+      <set picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Treasure.png"/>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any colour.</text>
+      
+    </card>
+    <card>
+      <name>Omen of the dark Demise</name>
+      
+      <prop>
+        <colors>B</colors>
+        <type>Legendary Token Enchantment</type>
+        <maintype>Token Enchantment</maintype>
+      </prop>
+      <set picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Omen of the dark Demise.png"/>
+      <tablerow>1</tablerow>
+      <text>at the beginning of enchanted player’s Upkeep, if ‘Hunt: Fatalis’ is on the battlefield, that player loses the game.</text>
+      
+    </card>
+    <card>
+      <name>Dalamadurs Coil</name>
+      
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Serpent </type>
+        <maintype>Token Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <set picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Dalamadurs Coil.png"/>
+      <tablerow>2</tablerow>
+      <text></text>
+      
+    </card>
+    <card>
+      <name>Velociprey</name>
+      
+      <prop>
+        <colors>G</colors>
+        <type>Creature Token - Dinosaur </type>
+        <maintype>Token Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <set picURL="https://raw.githubusercontent.com/Oblitorate/MHDocs/a3feb43094420bded19732807d79bbf1482cb38c/Velociprey.png"/>
+      <tablerow>2</tablerow>
+      <text></text>
+      
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
