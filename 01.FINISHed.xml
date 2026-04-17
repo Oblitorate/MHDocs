@@ -2750,8 +2750,8 @@ when a creatures is put into a graveyard from play, put X +1/+1 counters on Nigh
       <set rarity="common"></set>
       <prop>
         <colors>WB</colors>
-        <manacost>2WB</manacost>
-        <cmc>4</cmc>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
         <type>Legendary Creature - Cat </type>
         <maintype>Creature</maintype>
         <pt>0/2</pt>
